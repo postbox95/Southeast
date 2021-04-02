@@ -189,3 +189,14 @@ tr {
  	color: black;
  	padding: 10px;
    }
+
+   .counter-page{
+   	align-content: flex-end; 
+   }
+   .counter-image{
+  position: absolute;
+  right: 174px;
+  width: 75px;
+  height: 25px;
+  border: none;
+   }
